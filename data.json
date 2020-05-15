@@ -1,0 +1,49 @@
+[{
+        "title": "Phone",
+        "memory": 44444,
+        "price": 34000
+    }, {
+        "title": "Notebook",
+        "memory": 39977,
+        "price": 34000
+    },
+    {
+        "title": "Server",
+        "memory": 999999999,
+        "price": 99999
+    },
+    {
+        "title": "Modem",
+        "memory": 128,
+        "price": 34000
+    },
+    {
+        "title": "PC",
+        "memory": 56876,
+        "price": 33888
+    },
+    {
+        "title": "Tetris",
+        "memory": 3,
+        "price": 12
+    },
+    {
+        "title": "PDA",
+        "memory": 777,
+        "price": 34000
+    }, {
+        "title": "Smart Phone",
+        "memory": 87900,
+        "price": 12800
+    },
+    {
+        "title": "Pad",
+        "memory": 87878787,
+        "price": 55555
+    },
+    {
+        "title": "Xbox",
+        "memory": 809600,
+        "price": 99000
+    }
+]
