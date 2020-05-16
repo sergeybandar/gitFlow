@@ -1,11 +1,11 @@
 [{
-        "title": "Phone",
-        "memory": 44444,
+        "title": "Mobile phone",
+        "memory": 1048576,
         "price": 34000
     }, {
         "title": "Notebook",
-        "memory": 39977,
-        "price": 34000
+        "memory": 16777216,
+        "price": 83885
     },
     {
         "title": "Server",
@@ -24,26 +24,36 @@
     },
     {
         "title": "Tetris",
-        "memory": 3,
+        "memory": 8,
         "price": 12
     },
     {
         "title": "PDA",
-        "memory": 777,
-        "price": 34000
+        "memory": 729,
+        "price": 2999
     }, {
-        "title": "Smart Phone",
-        "memory": 87900,
+        "title": "Smartphone",
+        "memory": 46656,
         "price": 12800
     },
     {
-        "title": "Pad",
+        "title": "Tablet",
         "memory": 87878787,
-        "price": 55555
+        "price": 390625
     },
     {
         "title": "Xbox",
         "memory": 809600,
         "price": 99000
+    },
+    {
+        "title": "MP3 Player",
+        "memory": 78125,
+        "price": 3350
+    },
+    {
+        "title": "Video Camera",
+        "memory": 809600,
+        "price": 65999
     }
 ]
